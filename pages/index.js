@@ -1,6 +1,13 @@
+import Head from 'next/head';
+
 export default function BuildCircleLanding() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-8 font-press-start">
+      <Head>
+        <title>BuildCircle</title>
+        <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+      </Head>
+
       <h1 className="text-5xl font-bold text-center mb-4">Welcome to BuildCircle</h1>
       <p className="text-lg text-center max-w-2xl mb-6">
         The project-first social platform for engineers who ship. Show off your builds, find collaborators,
