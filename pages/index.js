@@ -10,7 +10,7 @@ export default function BuildCircleLanding() {
 
       <h1 className="text-5xl font-press-start text-center mb-4">Welcome to BuildCircle</h1>
       <p className="text-lg font-press-start text-center max-w-2xl mb-6">
-        The project-first social platform for engineers who ship. Show off your builds, find collaborators,
+        The project-first/talk-second social platform for engineers. Show off your builds, find collaborators,
         and get recognized for what you create — not where you work.
       </p>
 
@@ -38,8 +38,8 @@ export default function BuildCircleLanding() {
 
       <div className="mt-10 text-center text-gray-600 font-press-start">
         <p>🚀 Showcase your skills</p>
-        <p>🤝 Meet engineering collaborators</p>
-        <p>🏆 Win monthly build challenges</p>
+        <p>🤝 Meet and collaborate with other engineers</p>
+        <p>🏆 Promote your availability and get placement</p>
       </div>
     </div>
   );
