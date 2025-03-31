@@ -1,12 +1,12 @@
 export default function BuildCircleLanding() {
   return (
     <div className="min-h-screen bg-gray-200 flex flex-col items-center justify-center p-8 font-press-start text-black">
-      <h1 className="text-6xl text-center mb-4">BUILDCIRCLE</h1>
-      <p className="text-xl text-center mb-6">
+      <h1 className="text-6xl font-press-start text-center mb-4">BUILDCIRCLE</h1>
+      <p className="text-xl font-press-start text-center mb-6">
         The project-first/talk-second social platform for engineers.
       </p>
 
-      <h2 className="text-2xl text-center font-bold mb-6">Request Early Access</h2>
+      <h2 className="text-2xl font-press-start text-center font-bold mb-6">Request Early Access</h2>
 
       <div className="w-full max-w-md bg-white p-6 border-4 border-black">
         <form
