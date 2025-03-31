@@ -1,3 +1,4 @@
+// tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
@@ -8,7 +9,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'press-start': ['"Press Start 2P"', 'monospace'],
+        press: ['"Press Start 2P"', 'monospace'],
       },
     },
   },
