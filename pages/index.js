@@ -42,7 +42,7 @@ export default function BuildCircleLanding() {
         </form>
       </div>
 
-      <div className="mt-10 text-left space-y-4">
+      <div className="mt-10 text-left font-press space-y-4">
         <p>🚀 Showcase your skills</p>
         <p>🤝 Meet and collaborate with other engineers</p>
         <p>🏆 Promote your availability and get placement</p>
