@@ -1,6 +1,6 @@
 export default function BuildCircleLanding() {
   return (
-    <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-8 font-mono">
+    <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-8 font-press-start">
       <h1 className="text-5xl font-bold text-center mb-4">Welcome to BuildCircle</h1>
       <p className="text-lg text-center max-w-2xl mb-6">
         The project-first social platform for engineers who ship. Show off your builds, find collaborators,
@@ -13,16 +13,16 @@ export default function BuildCircleLanding() {
           <input
             type="text"
             placeholder="Your Name"
-            className="p-3 rounded-xl border border-gray-300 font-mono"
+            className="p-3 rounded-xl border border-gray-300 font-press-start"
           />
           <input
             type="email"
             placeholder="Your Email"
-            className="p-3 rounded-xl border border-gray-300 font-mono"
+            className="p-3 rounded-xl border border-gray-300 font-press-start"
           />
           <button
             type="submit"
-            className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-xl font-mono"
+            className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-xl font-press-start"
           >
             Get Invite
           </button>
